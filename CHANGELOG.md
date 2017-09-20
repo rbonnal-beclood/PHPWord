@@ -3,7 +3,7 @@ Change Log
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-v0.14.0 (?? ???? 2017)
+v0.14.0_beta (20 September 2017)
 ----------------------
 This release fixes several bugs and adds some new features.
 This is the last version to support PHP 5.3
